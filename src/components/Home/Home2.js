@@ -22,7 +22,7 @@ function Home2() {
             I delved deep into the realm of Data and have nurtured a deep passion 
             for transforming raw data into insightful narratives 📊
               <br />
-              <br />I am profecient in classics like
+              <br />I am proficient in classics like
               <i>
                 <b className="purple"> Python, R and SQL. </b>
               </i>
