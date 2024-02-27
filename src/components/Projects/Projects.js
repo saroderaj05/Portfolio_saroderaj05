@@ -2,11 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import NYC_MVC from "/Users/rajsarode/Documents/Github/saroderaj05.github.io/src/Assets/Projects/NYC_MVC.png";
-import NYC_INS from "/Users/rajsarode/Documents/Github/saroderaj05.github.io/src/Assets/Projects/NYC_Food_Inspections.png";
-import Twitter from "/Users/rajsarode/Documents/Github/saroderaj05.github.io/src/Assets/Projects/Twitter.png";
-import Diagnosis from "/Users/rajsarode/Documents/Github/saroderaj05.github.io/src/Assets/Projects/Diagnosis.png";
-import Iowa_Liquor_Sales from "/Users/rajsarode/Documents/Github/saroderaj05.github.io/src/Assets/Projects/Iowa_Liquor_Sales.png";
+import NYC_MVC from "../../Assets/Projects/NYC_MVC.png";
+import NYC_INS from "../../Assets/Projects/NYC_Food_Inspections.png";
+import Twitter from "../../Assets/Projects/Twitter.png";
+import Diagnosis from "../../Assets/Projects/Diagnosis.png";
+import Iowa_Liquor_Sales from "../../Assets/Projects/Iowa_Liquor_Sales.png";
 
 
 function Projects() {
