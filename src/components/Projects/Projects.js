@@ -40,7 +40,6 @@ function Projects() {
               description="This project entailed a multifaceted analysis of food establishment inspections across New York City. 
               It inlcuded staging, profiling, and the development of a dimensional data model. The final outcome involved creating BI dashboards using Alteryx for data preparation and employing Power BI and Tableau for visualization. These dashboards provided insights into inspection results, highlighting areas for potential improvement in food safety standards."
               ghLink="https://github.com/saroderaj05/-New_York_City_Food_Inspection"
-              // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -50,8 +49,7 @@ function Projects() {
               isBlog={false}
               title="IOWA Liquor Sales"
               description="This project involves a detailed analysis of a large dataset containing 25 million records of liquor sales in Iowa. The focus was on applying data analytics techniques and statistical models to extract valuable insights and identify underlying patterns and trends. Alteryx and Talend were utilized for robust data integration which significantly improved the quality of the dataset and reduced errors. Additionally, the project produced powerful visualizations with Tableau and Power BI, improving the understanding of key performance indicators."
-              ghLink="https://github.com/saroderaj05/IOWA_Liquor_Sales"
-              // demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com/saroderaj05/IOWA_Liquor_Sales"            
             />
           </Col>
 
@@ -62,7 +60,6 @@ function Projects() {
               title="Twitter Sentiment Analysis"
               description="The project entailed creating a model to classify and identify hate speech on Twitter. It involved using natural language processing (NLP) and machine learning techniques to differentiate between harmful and non-harmful tweets, with a focus on racist and sexist sentiments. Challenges included handling complex sentence structures and real-time data acquisition via the Twitter API. The project successfully implemented algorithms such as SVM, Random Forest, and XGBoost, with XGBoost providing the best results for real-time sentiment analysis."
               ghLink="https://github.com/saroderaj05/-Twitter-Sentiment-Analysis-"
-              // demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
