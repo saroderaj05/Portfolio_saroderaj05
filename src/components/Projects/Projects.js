@@ -7,6 +7,7 @@ import NYC_INS from "../../Assets/Projects/NYC_Food_Inspections.png";
 import Twitter from "../../Assets/Projects/Twitter.png";
 import Diagnosis from "../../Assets/Projects/Diagnosis.png";
 import Iowa_Liquor_Sales from "../../Assets/Projects/Iowa_Liquor_Sales.png";
+import Web_Wise from "../../Assets/Projects/Web_Wise.png";
 
 
 function Projects() {
@@ -73,11 +74,15 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-            content
+            imgPath={Web_Wise}
+            isBlog={false}
+            title="Web Wise - RAG ChatBot"
+            description="The project involved developing a retrieval-augmented generation (RAG) chatbot that enhances website interaction by leveraging advanced language models like GPT-4 for real-time information extraction and contextually relevant responses. It utilized the LangChain library for web communication, implemented large language models for query handling, and used Streamlit for a user-friendly interface. Key processes included web scraping with BeautifulSoup, data preprocessing, vectorization of content for semantic search, and integration with a large language model to inform responses, aiming to make chatbots more adaptable and useful for information retrieval."
+            ghLink="https://github.com/saroderaj05/WebWise-RAG-Chatbot"
             />
-          </Col> */}
+          </Col>
         </Row>
       </Container>
     </Container>
